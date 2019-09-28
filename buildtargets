@@ -1,0 +1,5 @@
+ # LineageOS build target list
+# <device> <build_type> <branch name> [period: "W"eekly] <Day: 1 Monday - 7 Sunday>
+
+# Weekly cm-13.0
+jfvelte userdebug cm-13.0 W 1
